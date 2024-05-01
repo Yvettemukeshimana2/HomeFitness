@@ -16,7 +16,7 @@
        <nav className="bg-gray-30 p-4 mx-auto relative container">
          <div className="flex item-center justify-between">
            <div className="pt-2  text-lg font-bold  ml-0">
-             <img className="h-12 w-9" src={des1} alt="" />
+             <img className="h-12 w-9" src={des2} alt="" />
            </div>
            <div className="hidden xs:flex mr-20 w-100">
              <ul className="flex space-x-10 ">
